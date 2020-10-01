@@ -1,2 +1,0 @@
-# bintang-riskyawan
-project laravel
